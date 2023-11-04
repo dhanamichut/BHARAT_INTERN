@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('tempcon.jpeg'); 
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: rgb(248, 246, 248);
+}
+
+
+
+.converter {
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+    background-color:none;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #1493d2;
+    color: rgb(246, 246, 248);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(40, 192, 101);
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
